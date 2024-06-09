@@ -2,12 +2,10 @@
 
 ## Desenvolvedores
 ### Charleston Ribeiro dos Passos
-- [**Email**](charleston.passos@gmail.com)
 - [**LinkedIn**](https://www.linkedin.com/in/charleston-ribeiro-dos-passos/)
 - [**GitHub**](https://github.com/CharlestonRibeiro)
   
 ### Renata Sisilio
-- [**Email**](renatasisilio.dev@gmail.com)
 - [**LinkedIn**](https://www.linkedin.com/in/renatasisilio/)
 - [**GitHub**](https://github.com/RenataSisilio)
 
