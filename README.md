@@ -76,6 +76,19 @@ https://github.com/CharlestonRibeiro/Portifolio/assets/88972333/fbf28fe3-cc16-4f
   <img src="https://github.com/CharlestonRibeiro/Portifolio/assets/88972333/4f4b9c4e-acc4-4917-a986-bb32e326c9ac" alt="WhatsApp Image 15" width="200" height="450">
 </p>
 
+### 4. SOS mulher
+
+**Descrição**: O SOS Mulher é um aplicativo criado para oferecer um meio seguro e eficiente para mulheres em situações de risco solicitarem ajuda imediata. Com apenas um clique, o app envia um alerta de emergência para a polícia, incluindo a localização em tempo real da usuária. Projetado para ser um recurso confiável e fácil de usar, o SOS Mulher busca empoderar e proteger mulheres, proporcionando paz de espírito e uma sensação de segurança onde quer que estejam.
+
+**Tecnologias Usadas**: Flutter, Firebase, Bloc, Modular.
+
+### Telas 
+
+<p align="center">
+<img src="https://github.com/CharlestonRibeiro/Portifolio/assets/88972333/7688dc38-0b5e-443e-b09b-688ee1bcc2fd" width="200" height="450">
+</p>
+
+
 
 
 
