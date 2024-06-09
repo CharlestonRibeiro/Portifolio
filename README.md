@@ -38,9 +38,33 @@ O projeto deve ser organizado em quatro Sprints e o tema a ser trabalhado deve e
 https://github.com/CharlestonRibeiro/Portifolio/assets/88972333/fbf28fe3-cc16-4f78-8a80-9a4029b23bfb
 
 
+### 3. SOS mulher
+
+**Descrição**: O SOS Mulher é um aplicativo criado para oferecer um meio seguro e eficiente para mulheres em situações de risco solicitarem ajuda imediata. Com apenas um clique, o app envia um alerta de emergência para a polícia, incluindo a localização em tempo real da usuária. Projetado para ser um recurso confiável e fácil de usar, o SOS Mulher busca empoderar e proteger mulheres, proporcionando paz de espírito e uma sensação de segurança onde quer que estejam.
+
+**Tecnologias Usadas**: Flutter, Firebase, Bloc, Modular.
+
+### Telas 
+
+<p align="center">
+<img src="https://github.com/CharlestonRibeiro/Portifolio/assets/88972333/7688dc38-0b5e-443e-b09b-688ee1bcc2fd" width="200" height="450">
+</p>
+
+### 4. Painel de Controle SOS Mulher
+
+**Descrição**: O Painel de Controle SOS Mulher é uma aplicação móvel desenvolvida em Flutter que serve como interface de gerenciamento para receber e visualizar dados de localização e áudios enviados por um aplicativo móvel de SOS para mulheres.
+
+**Tecnologias Usadas**: Flutter, Firebase, Bloc, Modular.
+
+### Telas 
+
+<p align="center">  
+<img src="https://github.com/CharlestonRibeiro/Portifolio/assets/88972333/393823b1-b24c-4d88-b3b7-86281efb24f0" width="500" height="250">
+<img src="https://github.com/CharlestonRibeiro/Portifolio/assets/88972333/9cc3896c-3bb4-42fd-9c5b-1f238c28404a" width="500" height="250">
+</p>
 
 
-### 3. Cycles
+### 5. Cycles
 
 **Descrição**: O projeto Cycles foi um MVP desenvolvido com o objetivo de captar recursos para o lançamento de uma startup focada no controle dos ciclos menstruais de mulheres. A iniciativa visou fornecer uma solução inovadora para monitorar e gerenciar os ciclos menstruais, utilizando smartwatches para captar dados de maneira precisa e contínua. Isso permitiria às usuárias um entendimento ampliado e controle sobre seus próprios corpos, facilitando o acompanhamento de sua saúde feminina de forma integrada e tecnológica.
 
@@ -76,17 +100,7 @@ https://github.com/CharlestonRibeiro/Portifolio/assets/88972333/fbf28fe3-cc16-4f
   <img src="https://github.com/CharlestonRibeiro/Portifolio/assets/88972333/4f4b9c4e-acc4-4917-a986-bb32e326c9ac" alt="WhatsApp Image 15" width="200" height="450">
 </p>
 
-### 4. SOS mulher
 
-**Descrição**: O SOS Mulher é um aplicativo criado para oferecer um meio seguro e eficiente para mulheres em situações de risco solicitarem ajuda imediata. Com apenas um clique, o app envia um alerta de emergência para a polícia, incluindo a localização em tempo real da usuária. Projetado para ser um recurso confiável e fácil de usar, o SOS Mulher busca empoderar e proteger mulheres, proporcionando paz de espírito e uma sensação de segurança onde quer que estejam.
-
-**Tecnologias Usadas**: Flutter, Firebase, Bloc, Modular.
-
-### Telas 
-
-<p align="center">
-<img src="https://github.com/CharlestonRibeiro/Portifolio/assets/88972333/7688dc38-0b5e-443e-b09b-688ee1bcc2fd" width="200" height="450">
-</p>
 
 
 
