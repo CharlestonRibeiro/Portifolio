@@ -1,7 +1,7 @@
 # <p align="center">Portifolio</p>
 
 ## Desenvolvedores
-### Charleston Ribeiro dos Passos
+### Charleston Ribeiro
 - [**LinkedIn**](https://www.linkedin.com/in/charleston-ribeiro-dos-passos/)
 - [**GitHub**](https://github.com/CharlestonRibeiro)
   
