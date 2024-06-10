@@ -31,7 +31,7 @@ O projeto deve ser organizado em quatro Sprints e o tema a ser trabalhado deve e
 
 **Descrição**: O projeto RQP - Revisa Que Passa é uma aplicação móvel voltada para estudantes que desejam aprimorar seus estudos por meio da técnica de revisão espaçada, compartilhamento de cartões de estudo e interações sociais com outros estudantes. Este aplicativo oferece uma série de funcionalidades projetadas para melhorar a eficácia dos estudos e tornar a jornada de aprendizado mais interativa e envolvente.
 
-**Tecnologias Usadas**: Flutter, Bloc, Modular.
+**Tecnologias Usadas**: Flutter, BloC/Cubit, Modular.
 
 ### Telas 
 
@@ -42,7 +42,7 @@ https://github.com/CharlestonRibeiro/Portifolio/assets/88972333/fbf28fe3-cc16-4f
 
 **Descrição**: O SOS Mulher é um aplicativo criado para oferecer um meio seguro e eficiente para mulheres em situações de risco solicitarem ajuda imediata. Com apenas um clique, o app envia um alerta de emergência para a polícia, incluindo a localização em tempo real da usuária. Projetado para ser um recurso confiável e fácil de usar, o SOS Mulher busca empoderar e proteger mulheres, proporcionando paz de espírito e uma sensação de segurança onde quer que estejam.
 
-**Tecnologias Usadas**: Flutter, Firebase, Bloc, Modular.
+**Tecnologias Usadas**: Flutter, Firebase, BloC/Cubit, Modular.
 
 ### Telas 
 
@@ -54,7 +54,7 @@ https://github.com/CharlestonRibeiro/Portifolio/assets/88972333/fbf28fe3-cc16-4f
 
 **Descrição**: O Painel de Controle SOS Mulher é uma aplicação móvel desenvolvida em Flutter que serve como interface de gerenciamento para receber e visualizar dados de localização e áudios enviados por um aplicativo móvel de SOS para mulheres.
 
-**Tecnologias Usadas**: Flutter, Firebase, Bloc, Modular, Maps.
+**Tecnologias Usadas**: Flutter, Firebase, BloC/Cubit, Modular, Maps.
 
 ### Telas 
 
