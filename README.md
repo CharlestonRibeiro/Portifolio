@@ -54,7 +54,7 @@ https://github.com/CharlestonRibeiro/Portifolio/assets/88972333/fbf28fe3-cc16-4f
 
 **Descrição**: O Painel de Controle SOS Mulher é uma aplicação móvel desenvolvida em Flutter que serve como interface de gerenciamento para receber e visualizar dados de localização e áudios enviados por um aplicativo móvel de SOS para mulheres.
 
-**Tecnologias Usadas**: Flutter, Firebase, Bloc, Modular.
+**Tecnologias Usadas**: Flutter, Firebase, Bloc, Modular, Maps.
 
 ### Telas 
 
@@ -100,11 +100,50 @@ https://github.com/CharlestonRibeiro/Portifolio/assets/88972333/fbf28fe3-cc16-4f
   <img src="https://github.com/CharlestonRibeiro/Portifolio/assets/88972333/4f4b9c4e-acc4-4917-a986-bb32e326c9ac" alt="WhatsApp Image 15" width="200" height="450">
 </p>
 
+### 6. Cashfy
 
+**Descrição**: O desenvolvimento do aplicativo em questão faz parte do Projeto Integrador do curso "Desenvolvimento Mobile em Flutter" oferecido pela Proz Educação.
+O projeto foi organizado em quatro sprints e o tema a ser trabalhado associado a Finanças.
 
+**Tecnologias Usadas**: Flutter, Firebase, ValueNotifier, BloC/Cubit.
 
+### Telas
 
+Sign-up           | Sign-in           | Home             
+:------------------:|:--------------:|:-------------------------:
+<img src="https://github.com/RenataSisilio/CASHFY/blob/main/assets/Screenshot_register.jpg" alt="show_case"  height="500"> | <img src="https://github.com/RenataSisilio/CASHFY/blob/main/assets/Screenshot_login.jpg" alt="show_case"  height="500"> | <img src="https://github.com/RenataSisilio/CASHFY/blob/main/assets/Screenshot_home.jpg" alt="show_case"  height="500"> 
 
+ Chart          |       Profile       | Categories        
+:--------------:|:------------------:|:-------------------:
+<img src="https://github.com/RenataSisilio/CASHFY/blob/main/assets/Screenshot_chart.jpg" alt="show_case"  height="500"> | <img src="https://github.com/RenataSisilio/CASHFY/blob/main/assets/Screenshot_profile.jpg" alt="show_case"  height="500"> | <img src="https://github.com/RenataSisilio/CASHFY/blob/main/assets/Screenshot_categories.jpg" alt="show_case"  height="500">
 
+ Account        |      History     | New transaction   
+:--------------:|:------------------:|:-------------------------:
+<img src="https://github.com/RenataSisilio/CASHFY/blob/main/assets/Screenshot_account.jpg" alt="show_case"  height="500"> | <img src="https://github.com/RenataSisilio/CASHFY/blob/main/assets/Screenshot_extract.jpg" alt="show_case"  height="500"> | <img src="https://github.com/RenataSisilio/CASHFY/blob/main/assets/Screenshot_new_transaction.jpg" alt="show_case"  height="500"> 
 
+### 7. Meu Repertório
 
+**Descrição**: O app Meu Repertório foi criado para ser um auxílio de organização de repertório pessoal para músicos e grupos artísticos. Oferece o suporte de categorização personalizável, exibição em letra, cifra e áudio, auto adição via página de pesquisa e compartilhamento de listas de músicas criadas pelo usuário.
+
+**Tecnologias Usadas**: Flutter, BloC/Cubit, Firebase, GetIt, Webview, audio player, image picker/cropper, YouTube explode.
+
+### Telas 
+
+<p align="center">
+  <img src="https://github.com/CharlestonRibeiro/Portifolio/assets/112419444/9bdac72d-1510-4ac3-ab84-bdfd0c82d69c" width="200" height="450">
+  <img src="https://github.com/CharlestonRibeiro/Portifolio/assets/112419444/99d89f31-48cc-4a02-a5a8-58ec2218f198" width="200" height="450">
+  <img src="https://github.com/CharlestonRibeiro/Portifolio/assets/112419444/835ac9d1-8b1d-4234-9fe5-e15c0b691c36" width="200" height="450">
+  <img src="https://github.com/CharlestonRibeiro/Portifolio/assets/112419444/87aef9c4-411d-4cd3-a892-6a31dcb5c334" width="200" height="450">
+</p>
+
+<p align="center">
+  <img src="https://github.com/CharlestonRibeiro/Portifolio/assets/112419444/6d30efe4-1e60-4502-9a62-4943c3b16697" width="200" height="450">
+  <img src="https://github.com/CharlestonRibeiro/Portifolio/assets/112419444/b706537a-a122-419a-bdea-f80719d6ee67" width="200" height="450">
+  <img src="https://github.com/CharlestonRibeiro/Portifolio/assets/112419444/47f236d4-f699-4aaa-9a20-056c3d96935c" width="200" height="450">
+  <img src="https://github.com/CharlestonRibeiro/Portifolio/assets/112419444/d25ec2ae-677b-483f-8672-7932a92ff135" width="200" height="450">
+</p>
+
+<p align="center">
+  <img src="https://github.com/CharlestonRibeiro/Portifolio/assets/112419444/5c87e8e2-e321-4cb4-a9b4-6576be930c10" width="200" height="450">
+  <img src="https://github.com/CharlestonRibeiro/Portifolio/assets/112419444/c32514e1-cac5-49db-bda8-34b4c9328a7a" width="200" height="450">
+</p>
